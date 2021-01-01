@@ -2,12 +2,37 @@
 ## 대학교통합정보시스템 WGU e-campus
 
 ### :raising_hand_woman: Project Team Member
-
 > :sunflower: Team Leader : 김기쁨 <br>
 > :blossom: Team Member : 명다정, 이영실, 최하윤, 한지원
 
-### :building_construction: Development schedule
-#### 2020.07.24 ~ 2020.09.11
+### :hammer_and_wrench: Project Part
+> :peach: 기쁨<br>
+과목 개설/조회<br>
+수강 신청/취소<br>
+성적 입력/수정/조회<br>
+강의평가 입력/조회<br>
+수강생 조회<br><br>
+> :grapes: 다정<br>
+식당 등록/수정/삭제<br>
+요일메뉴 등록/수정<br>
+식당 조회<br>
+식권 구매/조회 <br><br>
+> :lemon: 영실<br>
+회원가입/로그인<br>
+정보수정<br>
+아이디/비밀번호 찾기<br>
+회원탈퇴<br><br>
+> :apple: 하윤<br>
+익명게시판 등록/수정/삭제<br>
+공지사항 등록/수정/삭제<br>
+댓글 등록/수정/삭제<br>
+학사일정 등록/수정/삭제<br><br>
+> :tomato: 지원<br>
+스쿨버스 등록/삭제<br>
+스쿨버스 예약/결제<br>
+스쿨버스 예약 현황확인<br>
+
+### :building_construction: Development schedule (2020.07.24 ~ 2020.09.11)
 > 프로젝트 기획 : 2020.07.24 ~ 2020.07.29<br>
 > UI회의 / 설계 : 2020.07.30 ~ 2020.08.05<br>
 > DB회의 / 설계 : 2020.08.06 ~ 2020.08.09<br>
